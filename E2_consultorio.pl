@@ -7,7 +7,6 @@ receta_antibiotica(x):-infeccion(X).
 
 fiebre(luis).
 dolor_garganta(luis).
-luis(X).
 
 
 
